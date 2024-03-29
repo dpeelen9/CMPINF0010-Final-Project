@@ -1,4 +1,7 @@
 # CMPINF0010-Final-Project
+
+This project tries to find the best neighborhood in Pittsburgh based on arrest, fire, and traffic data.
+
 Daniel Peelen - dap276@pitt.edu
 Logan Snyder - los59@pitt.edu
 Shreyash Ranjan - s_r__@pitt.edu
