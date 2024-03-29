@@ -4,7 +4,7 @@ This project tries to find the best neighborhood in Pittsburgh based on arrest, 
 
 Daniel Peelen - dap276@pitt.edu
 Logan Snyder - los59@pitt.edu
-Shreyash Ranjan - s_r__@pitt.edu
+Shreyash Ranjan - shr22@pitt.edu
 
 Datasets Used:
 Pittsburgh Police Arrest Data (https://data.wprdc.org/dataset/arrest-data) - Has data on all arrests in the Pittsburgh City area
