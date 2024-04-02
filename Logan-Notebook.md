@@ -12,3 +12,10 @@ I have to add everything together, with my weighting being a large portion of th
 
 The visualization I have today is completely incomprehensible, but I will make it aesthetic another day.
 Today, I am happy to have a valid data set.
+
+4/02/24
+I made the visualization both functional and comprehendible. 
+I chose an arbitrary point to cut off showing the graph that may have to change.
+This allows for all of the names of the neighborhoods shown to be read.
+
+Unless the cutoff has to be changed for some reason or an error is found, this data set is complete.
